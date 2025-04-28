@@ -2,7 +2,7 @@
 
 A modern, responsive single-page website template for creative agencies. Built with HTML5 and CSS3, featuring a clean and minimal design.
 
-![Leon Agency Template](images/mountain.jpg)
+![Leon Agency Template](images/readme.png)
 
 ## Features
 

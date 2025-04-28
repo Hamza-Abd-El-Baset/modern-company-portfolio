@@ -2,7 +2,6 @@
 
 :root {
     --main-color: #10cab7;
-    /* --secondary-color: #2C4655; */
     --secondary-color: #314A70;
     --section-padding: 60px;
     --section-background: #f6f6f6;
@@ -358,7 +357,7 @@ header .links ul li:not(:last-child) a {
 }
 
 .portfolio-content img {
-    max-width: 100%;
+    width: 100%;
 }
 
 .portfolio-content .info {
